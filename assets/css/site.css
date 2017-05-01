@@ -1,3 +1,8 @@
 .main-content ul {
     padding-left: 16px;
 }
+
+.main-content :first-child {
+    margin-top: 0;
+    margin-bottom: 0;
+}
