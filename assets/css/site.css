@@ -14,5 +14,8 @@
 }
 
 .instructor {
+    display: inline-block;
+    width: 150px;
     text-align: center;
+    margin-right: 20px;
 }
