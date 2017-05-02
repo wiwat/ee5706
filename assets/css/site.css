@@ -6,3 +6,9 @@
     margin-top: 0;
     margin-bottom: 0;
 }
+
+.instructorphoto img {
+    width: 120px;
+    border-radius: 120px;
+    margin-bottom: 10px;
+}
